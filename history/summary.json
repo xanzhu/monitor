@@ -1,22 +1,20 @@
 [
   {
-    "name": "Xanzhu",
-    "url": "https://xanzhu.com",
-    "icon": "https://icons.duckduckgo.com/ip3/xanzhu.com.ico",
-    "slug": "xanzhu",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 86,
-    "timeDay": 86,
-    "timeWeek": 86,
-    "timeMonth": 86,
-    "timeYear": 86,
-    "dailyMinutesDown": {
-      "2024-09-07": 4
-    }
+    "name": "Google",
+    "url": "https://google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
+    "slug": "google",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 120,
+    "timeDay": 120,
+    "timeWeek": 120,
+    "timeMonth": 120,
+    "timeYear": 120,
+    "dailyMinutesDown": {}
   }
 ]
